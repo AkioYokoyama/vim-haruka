@@ -123,6 +123,4 @@ if !has("gui_running")
   hi link Debug          Special
 endif
 
-
-
 " vim:ff=unix:
